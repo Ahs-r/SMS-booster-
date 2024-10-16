@@ -7,4 +7,4 @@ cd TBomb
 
 
 # SMS-booster-
-get injoy Frank 
+
